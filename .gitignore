@@ -44,6 +44,9 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+.idea/
+dradlew/
+
 
 # Eclipse Gradle plugin generated files
 # Eclipse Core
