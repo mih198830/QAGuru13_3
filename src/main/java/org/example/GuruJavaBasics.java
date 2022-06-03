@@ -1,7 +1,7 @@
 package org.example;
 import java.util.Arrays;
 
-public class JavaExamples {
+public class GuruJavaBasics {
     public static void primitiveDataTypes() {
         //byte type example (from -128 to 127)
         byte byteExample = -125;
@@ -16,7 +16,7 @@ public class JavaExamples {
         System.out.println("This is an example of Int data type in Java: " + intExample);
 
         //long type example (from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807)
-        long longExample = 52233222223;
+        long longExample = 52233222223L;
         System.out.println("This is an example of Long data type in Java: " + longExample);
 
         //float type example (up to 7 decimal digits)
